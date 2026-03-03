@@ -1,9 +1,13 @@
-## Hi there 👋
+<div align="center">
+  <h1>Hi there 👋</h1>
+  <p>
+    🔭 I'm currently working on <strong>Customs Agency</strong><br/>
+    🌱 I'm currently learning <strong>Programming with Java</strong><br/>
+    👯 I'm looking to collaborate on <strong>Web Programming</strong>
+  </p>
+</div>
 
-- 🔭 I’m currently working on Customs Agency
-- 🌱 I’m currently learning Programming with Java
-- 👯 I’m looking to collaborate on Web Programming
-- 🤔 I’m looking for help with ...
+- 🤔 I'm looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
